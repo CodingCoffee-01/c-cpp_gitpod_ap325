@@ -17,7 +17,7 @@ step5:
         gcc your_code.c 
 
 step6:
-	./chk.sh
+	./chk.sh  
  
 
 
